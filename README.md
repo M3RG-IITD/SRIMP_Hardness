@@ -1,6 +1,8 @@
-# SRIML_Hardness
+# SRIMP
 
-Code folder consists of all the notebook requires to replicate the results.
+# Glass hardness: Predicting composition and load effects via symbolic reasoning-informed machine learning
+
+## Link to full paper - [Click here](https://doi.org/10.1016/j.actamat.2023.119046)
 
 # Data and model are given in seperate folder
 
@@ -16,3 +18,5 @@ Cite:
   publisher={Elsevier}
 }
 ```
+
+In case of any query, mail us at cez218288@iitd.ac.in
